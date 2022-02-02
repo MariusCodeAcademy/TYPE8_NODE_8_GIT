@@ -1,5 +1,5 @@
 
 1. git init 
 2. dirbam darba rasom koda
-3. git add . - pazymim failus issaugojimui
+3. git add . (pazymim failus issaugojimui)
 4. git commit -m "issaugojimo zinute"
