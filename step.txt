@@ -9,4 +9,4 @@
 6. git status (grazina status bukle kurioje esam)
 7. git log --oneline (grazina kiek kokiu comit turim padare)
 
-8. git checkout <jusu sha kodas / sakos pavadinmas> (pereiti i issaugojimo vieta arba kita saka)
+8. git checkout <jusu sha kodas / sakos pavadinmas> (pereiti i issaugojimo vieta arba kita saka).
