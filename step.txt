@@ -1,5 +1,12 @@
 
 1. git init 
+
 2. dirbam darba rasom koda
 3. git add . (pazymim failus issaugojimui)
 4. git commit -m "issaugojimo zinute"
+
+5. kartojam zingsnius 2-4 kol dirbam
+6. git status (grazina status bukle kurioje esam)
+7. git log --oneline (grazina kiek kokiu comit turim padare)
+
+8. git checkout <jusu sha kodas / sakos pavadinmas> (pereiti i issaugojimo vieta arba kita saka)
